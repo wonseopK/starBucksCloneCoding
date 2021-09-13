@@ -1,0 +1,27 @@
+/* COMMON */
+body {
+  color: #333;
+  font-size: 16px;
+  font-weight: 400; 
+  /* font-weight:100~900선택가능 */
+  line-height: 1.4;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+img {
+  display: block;
+}
+
+/* HEADER */
+header {
+  background-color: royalblue;
+}
+header .inner{
+  width: 1100px;
+  margin: 0 auto;
+  /* margin: 0 auto 가로사이즈와 마진의 좌우값이 오토로 입력되서 해더의 영역에 가운대 부분으로
+  정렬 시켜줄수 있는 개념으로 많이사용된다 */
+  background-color: orange;
+}
+header .log {
+
+}
